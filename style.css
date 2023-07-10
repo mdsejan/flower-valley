@@ -9,7 +9,7 @@
  }
 
  .container{ 
-    padding: 20px 100px 0px 100px;
+    padding: 25px 100px 0px 100px;
  }
 
 /* Hero section style */
@@ -46,7 +46,7 @@
 }
 
 .hero-content button{
-    padding: 20px 43px;
+    padding: 15px 36px;
     background-color: #E55473;
     border: 0;
     border-radius: 8px;
