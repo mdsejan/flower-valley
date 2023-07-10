@@ -218,3 +218,31 @@
     width: 400px;
     padding: 10px;
 }
+
+
+.footer{
+    background-color: #111010;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.footer-content{
+    max-width: 550px;
+    text-align: center;
+    
+}
+
+.footer-content h1 span{
+    color: #E55473;
+}
+.footer-content p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.copy {
+    color: #FFFFFF66;
+}
