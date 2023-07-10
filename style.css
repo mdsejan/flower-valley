@@ -129,6 +129,7 @@
 }
 
 /* Hot Deal section style */
+
 .hotdeal-container{
     display: flex;
     justify-content: space-between;
@@ -155,4 +156,20 @@
 
 .hotdeal-content p{
     margin-bottom: 32px;
+}
+
+/* Instagram section style */
+
+.instagram-content{
+    display: flex;
+    gap: 20px;
+}
+
+.insta-box{
+    margin-top: 32px;
+    width: 25%;
+}
+
+.insta-box img{
+    width: 100%;
 }
