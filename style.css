@@ -79,6 +79,10 @@
 
 /* Featured section style */
 
+.featured-container{
+    padding: 150px 100px 50px 100px;
+}
+
 .featured-box{
     display: flex;
     gap: 25px;
@@ -127,6 +131,41 @@
     line-height: 35px;
     text-decoration-line: underline;
 }
+
+/* Service section Style */
+
+.service-container{
+    padding: 50px 100px 150px 100px;
+
+}
+
+.service-content {
+    min-height: 320px;
+    background-color: #2727270D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.service-box{
+    text-align: center;
+}
+
+.service-box img{
+    height: 88px;
+    width: 88px;
+    margin-bottom: 32px;
+}
+
+.service-box p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 18px;
+font-weight: 600;
+line-height: 25px;
+}
+
 
 /* Hot Deal section style */
 
@@ -217,8 +256,13 @@
     border-radius: 4px;
     width: 400px;
     padding: 10px;
+
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
 }
 
+/* Footer section style */
 
 .footer{
     background-color: #111010;
